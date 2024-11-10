@@ -22,3 +22,23 @@ Fonte: [IBGE](https://www.gov.br/mdh/pt-br/assuntos/noticias/2023/julho/brasil-t
 - Deficiência física
 - Dislexia
 - Daltonismo
+
+### Guia de Acessibilidade Web (WCAG)
+
+A WCAG é baseada em quatro princípios fundamentais, conhecidos pela sigla P.O.U.R., que representa quatro ideias: Perceptível, Operável, Compreensível e Robusto.
+
+- **Percetível:** Os usuários devem ser capazes de perceber as informações apresentadas, seja por meio de texto, áudio, vídeo ou outras formas de apresentação.
+- **Operável:** Os componentes de interface e navegação devem ser operáveis e utilizáveis por todos, independentemente da deficiência. Isso inclui a facilidade de navegação, interação e conclusão de tarefas.
+- **Compreensível:** As informações e operações devem ser compreensíveis, evitando ambiguidades e garantindo que todos os usuários possam entender e utilizar o conteúdo sem dificuldades excessivas.
+- **Robusto:** O conteúdo deve ser robusto o suficiente para ser interpretado de forma consistente por uma variedade de tecnologias, incluindo tecnologias assistivas, como leitores de tela.
+
+**A WCAG define três níveis de acessibilidade:**
+
+- A (mínimo);
+- AA (intermediário); e
+- AAA (máximo)
+
+### Links
+- [Diretrizes de Acessibilidade para Conteúdo Web (WCAG) 2.0](https://www.w3.org/Translations/WCAG20-pt-br/)
+- [Guia WCAG | Guia de consulta rápida](https://www.guia-wcag.com/)
+- [ARIA Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/)
