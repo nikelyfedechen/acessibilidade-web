@@ -17,3 +17,9 @@ Guia para o desenvolvimento de interfaces acessíveis a pessoas com autismo, for
 Ferramenta para verificar o contraste de cores entre o texto e o fundo, garantindo conformidade com os critérios de acessibilidade.
 - [Accessibility checklist](https://www.magentaa11y.com/)  
 Checklist de acessibilidade que ajuda a identificar e corrigir problemas comuns de acessibilidade em sites, oferecendo uma lista de verificação prática para desenvolvedores e designers.
+- [axe DevTools](https://www.deque.com/axe/)  
+Para validar acessibilidade no desenvolvimento.
+- [Pa11y](https://pa11y.org/)  
+Ferramenta automatizada para detectar problemas de acessibilidade. 
+- [NVDA](https://www.nvaccess.org/)  
+Um leitor de tela gratuito para testar como seu conteúdo é percebido.
