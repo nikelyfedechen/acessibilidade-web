@@ -19,3 +19,4 @@ Este guia é uma introdução sobre como incorporar acessibilidade em projetos w
 -  🌈 [Sistemas de Design](./05-sistemas-de-design.md)
 -  ✨ [Extensões para Navegadores](./06-extensoes-para-navegador.md)
 - 🔍 [Referências e Recursos](./07-referencias.md)
+- 🎓 [Certificações](./08-certificacoes.md)
