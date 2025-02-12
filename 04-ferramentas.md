@@ -20,8 +20,8 @@ Checklist de acessibilidade que ajuda a identificar e corrigir problemas comuns 
 - [axe DevTools](https://www.deque.com/axe/)  
 Para validar acessibilidade no desenvolvimento.
 - [Pa11y](https://pa11y.org/)  
-Ferramenta automatizada para detectar problemas de acessibilidade.
--[Inclusive Components](https://inclusive-components.design/)
+Ferramenta automatizada para detectar problemas de acessibilidade.  
+- [Inclusive Components](https://inclusive-components.design/)
 Uma biblioteca de padrões sobre projetar interfaces web inclusivas.
 - [NVDA](https://www.nvaccess.org/)  
 Um leitor de tela gratuito para testar como seu conteúdo é percebido.
