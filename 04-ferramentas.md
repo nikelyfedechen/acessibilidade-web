@@ -21,7 +21,7 @@ Checklist de acessibilidade que ajuda a identificar e corrigir problemas comuns 
 Para validar acessibilidade no desenvolvimento.
 - [Pa11y](https://pa11y.org/)  
 Ferramenta automatizada para detectar problemas de acessibilidade.  
-- [Inclusive Components](https://inclusive-components.design/)
+- [Inclusive Components](https://inclusive-components.design/)  
 Uma biblioteca de padrões sobre projetar interfaces web inclusivas.
 - [.horcel](https://horcel.wiki.br/)  
 Um guia que contempla 16 recomendações para construção de produtos digitais focados em aspectos do Transtorno do Déficit de Atenção/Hiperatividade, Dislexia, Discalculia e Disortografia.
