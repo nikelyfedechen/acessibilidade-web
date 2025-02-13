@@ -15,7 +15,7 @@ Ferramenta de avaliação de acessibilidade que verifica sites quanto à conform
 Guia para o desenvolvimento de interfaces acessíveis a pessoas com autismo, fornecendo recomendações para melhorar a experiência de interação.
 - [WebAIM: Contrast Checker](https://webaim.org/resources/contrastchecker/)  
 Ferramenta para verificar o contraste de cores entre o texto e o fundo, garantindo conformidade com os critérios de acessibilidade.
-- [Accessibility checklist](https://www.magentaa11y.com/)  
+- [MAgentaA11y - Accessibility checklist](https://www.magentaa11y.com/)  
 Checklist de acessibilidade que ajuda a identificar e corrigir problemas comuns de acessibilidade em sites, oferecendo uma lista de verificação prática para desenvolvedores e designers.
 - [axe DevTools](https://www.deque.com/axe/)  
 Para validar acessibilidade no desenvolvimento.
@@ -23,5 +23,7 @@ Para validar acessibilidade no desenvolvimento.
 Ferramenta automatizada para detectar problemas de acessibilidade.  
 - [Inclusive Components](https://inclusive-components.design/)
 Uma biblioteca de padrões sobre projetar interfaces web inclusivas.
+- [.horcel](https://horcel.wiki.br/)
+Um guia que contempla 16 recomendações para construção de produtos digitais focados em aspectos do Transtorno do Déficit de Atenção/Hiperatividade, Dislexia, Discalculia e Disortografia.
 - [NVDA](https://www.nvaccess.org/)  
 Um leitor de tela gratuito para testar como seu conteúdo é percebido.
