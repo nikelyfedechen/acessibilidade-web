@@ -23,7 +23,7 @@ Para validar acessibilidade no desenvolvimento.
 Ferramenta automatizada para detectar problemas de acessibilidade.  
 - [Inclusive Components](https://inclusive-components.design/)
 Uma biblioteca de padrões sobre projetar interfaces web inclusivas.
-- [.horcel](https://horcel.wiki.br/)
+- [.horcel](https://horcel.wiki.br/)  
 Um guia que contempla 16 recomendações para construção de produtos digitais focados em aspectos do Transtorno do Déficit de Atenção/Hiperatividade, Dislexia, Discalculia e Disortografia.
 - [NVDA](https://www.nvaccess.org/)  
 Um leitor de tela gratuito para testar como seu conteúdo é percebido.
